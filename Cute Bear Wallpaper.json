@@ -1,0 +1,803 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-7615880214648928/5209893175",
+      "main_ads_intertitial":"ca-app-pub-7615880214648928/9859584620",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_app_ads":"ca-app-pub-7615880214648928/5031059382",
+      "interval_intertitial": 10,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Cute Bear",
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/3d/e6/c03de6cda5819f0e6d3961032e673967.jpg"
+    }
+    
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/3d/e6/c03de6cda5819f0e6d3961032e673967.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/44/f8/60/44f860e598d4e2a93b6abc3511dcc2d4.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/56/d6/27/56d627d285e55431b0fe5a8d6bab16df.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/93/c2/6e/93c26e413a47d30b9f3976bfdc78ee28.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/38/bf/e5/38bfe55a8a58c0a9c6d4bc45a325d940.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/78/66/1e7866feb79d98ae55f3813faf60ac41.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/d9/7e/c0d97e923c1cc0769a5fde6933143703.jpg"
+    },
+	{
+      "id": 8,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/77/ed/bf/77edbf4add0f458a2970809bc1ccbea3.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/01/d4/02/01d402507c57b72f1568e783eef482ac.jpg"
+    },
+	{
+      "id": 10,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/e3/f0/2ae3f03bac8efd9345ff911ad06384ce.jpg"
+    },
+	{
+      "id": 11,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/73/5c/3a/735c3a893392caa3124a881b5f0d8476.jpg"
+    },
+	{
+      "id": 12,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/85/8b/27/858b27fdead4a772f17d2ae7dd08e2c5.jpg"
+    },
+	{
+      "id": 13,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/750x/1d/6a/87/1d6a87fffa9ab8dd606bbce1d84cf875.jpg"
+    },
+	{
+      "id": 14,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/12/ec/a5/12eca5eaf9ed45a865dcf791a4bfb11c.jpg"
+    },
+	{
+      "id": 15,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d7/e7/5f/d7e75fcdd04e1efd9f3dea36dc830aec.jpg"
+    },
+	{
+      "id": 16,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/63/02/a8/6302a8197a70f6bd5da23b39a8b62827.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/0d/ff/8d0dfff710454d414bd2aa3c510be0af.jpg"
+    },
+	{
+      "id": 18,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/6b/5c/b66b5c16b4daf4258e613c10ccd043f8.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0d/0c/e2/0d0ce29b00e4a12f7fcf7b908b67070b.jpg"
+    },
+	{
+      "id": 20,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/90/ba/a5/90baa5675f3ca25896f2cc5643260527.jpg"
+    },
+	{
+      "id": 21,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/01/fd/5e/01fd5e0926139d190eb8985740931d5d.jpg"
+    },
+	{
+      "id": 22,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/0d/52/b40d52d77bae9d04da0c915cdf027426.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/76/24/5f76246b372207f71a97d23ec5a10205.jpg"
+    },
+	{
+      "id": 24,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/08/21/5a/08215a81de90448f2e7df5beaf197dc9.jpg"
+    },
+	{
+      "id": 25,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/0d/b1/1e0db1cc3c65118800a5b7dbb2429158.jpg"
+    },
+	{
+      "id": 26,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/ba/e0/a2bae0e6204bf3c5d9777e265d0f4d40.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/1f/4e/7b1f4e049829e2fa778177e97617c867.jpg"
+    },
+	{
+      "id": 28,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d3/95/cd/d395cd18a56878497e05541ac419121c.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/47/3c/cc/473ccc1380539f8c6d13b0e3d0c20296.jpg"
+    },
+	{
+      "id": 30,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/25/9f/d7/259fd7073f09024f7017a62e3d932940.jpg"
+    },
+	{
+      "id": 31,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/02/2e/59/022e59ebf9c24a1b2721370efe6f98db.jpg"
+    },
+	{
+      "id": 32,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/40/d6/e140d6f9f57b8c34490ef987ad1fbad3.jpg"
+    },
+	{
+      "id": 33,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a7/62/56/a762569f017db9fbb65ec2c9ba930a62.jpg"
+    },
+	{
+      "id": 34,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/43/1c/3c/431c3c8b683af2d46b34ffec03db8b98.jpg"
+    },
+	{
+      "id": 35,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/8a/8a/b88a8a16f977165fcb9e7194d5e23475.jpg"
+    },
+	{
+      "id": 36,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/07/8a/a2078a26f394f80dafee00051e177452.jpg"
+    },
+	{
+      "id": 37,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/93/b3/7a93b37b24b1aa59a8524de733a2f72c.jpg"
+    },
+	{
+      "id": 38,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d7/bd/60/d7bd60258d69ce87ca2f90415e99d4dc.jpg"
+    },
+	{
+      "id": 39,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/52/8e/3b/528e3b8ba66a7dc5d31ea5ae25912809.jpg"
+    },
+	{
+      "id": 40,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/46/58/b4/4658b46ee71a46cfe4dfff12bc321fa7.jpg"
+    },
+	{
+      "id": 41,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/15/d6/e815d639d59679f5c850d34b8ddf4035.jpg"
+    },
+	{
+      "id": 42,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/72/8c/e1728ca04c10230fc8aa1604ef8910c2.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/85/4a/2e854aa078337dc45beba3f02ed34669.jpg"
+    },
+	{
+      "id": 44,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/bc/65/c3/bc65c395a70754489a70b6dafe1d5ae7.jpg"
+    },
+	{
+      "id": 45,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3e/41/cb/3e41cb0f362c3b240912103e4812de9a.jpg"
+    },
+	{
+      "id": 46,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/96/3f/0f/963f0f8a8b4849292db94317758cce0d.jpg"
+    },
+	{
+      "id": 47,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/66/53/df/6653df1c5c8644701f1eb7f57520acff.jpg"
+    },
+	{
+      "id": 48,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/49/70/67/497067d7888bb512b54b99f8b8bf2b96.jpg"
+    },
+	{
+      "id": 49,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/0f/b9/6a0fb9003cb556ace3a119c7bc94e75a.jpg"
+    },
+	{
+      "id": 50,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/7b/97/1c7b977d3b00588fd07774ccddd5736b.jpg"
+    },
+	{
+      "id": 51,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/ac/31/67/ac31679a43bb4576652d7fc67da6004c.jpg"
+    },
+	{
+      "id": 52,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/a9/02/1ca902fce6a400b9e9e86c3f6c7176ea.jpg"
+    },
+	{
+      "id": 53,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/34/23/e6/3423e6a0f211a5962af327a59add175f.jpg"
+    },
+	{
+      "id": 54,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ea/5c/5c/ea5c5ccc66c4b585867f3160f0ad08b4.jpg"
+    },
+	{
+      "id": 55,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/fb/b3/cbfbb33dcdc628d57d4523c91049cd69.jpg"
+    },
+	{
+      "id": 56,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/21/59/ff21597ace712f031c39a5a083ded207.jpg"
+    },
+	{
+      "id": 57,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/92/16/2c/92162c2d0a7f8d8a66bd06944f481221.jpg"
+    },
+	{
+      "id": 58,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/3b/0a/c43b0a95429af41f329362839a18e776.jpg"
+    },
+	{
+      "id": 59,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3d/4c/b8/3d4cb8bbd7ff74ff84a4dcd066bb3c28.jpg"
+    },
+	{
+      "id": 60,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ce/eb/bb/ceebbb1843cb44c99522f39a7c41b5da.jpg"
+    },
+	{
+      "id": 61,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4f/60/fd/4f60fd72756c730d17800a80a1652cde.jpg"
+    },
+	{
+      "id": 62,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/a9/ba/6ca9ba9450eccded20d19970494bce84.jpg"
+    },
+	{
+      "id": 63,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/05/ca/dd/05caddbb79c07033c8de542a075e014e.jpg"
+    },
+	{
+      "id": 64,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/42/70/93/427093632f955b7a712168eac597fd0b.jpg"
+    },
+	{
+      "id": 65,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2f/04/e2/2f04e2fec5af286156ce2cbd9e33ac6a.jpg"
+    },
+	{
+      "id": 66,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/29/34/6e293414f7805d01d46a6c6418157f68.jpg"
+    },
+	{
+      "id": 67,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/43/5d/aa/435daab269b1a9f34f6f7ef827d69397.jpg"
+    },
+	{
+      "id": 68,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/92/b3/b892b33e82942b97f0e7ed7cb6a9bc29.jpg"
+    },
+	{
+      "id": 69,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/5f/42/c65f42405770d162d301c6e991f07a67.jpg"
+    },
+	{
+      "id": 70,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/2a/3f/b62a3f7a37d317ef6d1215d2e412d1b3.jpg"
+    },
+	{
+      "id": 71,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/26/02/32/2602329e349354a220824170cbd9f361.jpg"
+    },
+	{
+      "id": 72,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/20/fa/ea/20faead0fa0298c93b282248db229703.jpg"
+    },
+	{
+      "id": 73,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/10/54/d2105467c88a1a76e914c363cc992396.jpg"
+    },
+	{
+      "id": 74,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4b/31/a9/4b31a91cfa9a0809e9b2baadc4c13bb0.jpg"
+    },
+	{
+      "id": 75,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d3/de/b8/d3deb83b5f5ea36435d0bb12a67f78da.jpg"
+    },
+	{
+      "id": 76,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/5d/ec/7b/5dec7b7048e8e7f5c301a05f433a424a.jpg"
+    },
+	{
+      "id": 77,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/81/ed/c181ed1dba98647098d7abeb0922f875.jpg"
+    },
+	{
+      "id": 78,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4f/cb/87/4fcb87902c2221db1d9206f5a38965b1.jpg"
+    },
+	{
+      "id": 79,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2d/fc/26/2dfc2664126e31a8ce116bd55f922a9a.jpg"
+    },
+	{
+      "id": 80,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/75/51/ae/7551ae1465f91c45b28a588bc79fb3cc.jpg"
+    },
+	{
+      "id": 81,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/af/76/d2af7680409d0e69d685d714ff9414ee.jpg"
+    },
+	{
+      "id": 82,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/15/85/b7/1585b73018a67c4d6cc714478f16c98c.jpg"
+    },
+	{
+      "id": 83,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/dd/5f/d3/dd5fd355c9021c0a6354038e53d76db6.jpg"
+    },
+	{
+      "id": 84,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/5c/02/f95c02cf5c19355a55ae3d14f994d413.jpg"
+    },
+	{
+      "id": 85,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/d4/72/cad472a07144cd24634aae2ec499a6b2.jpg"
+    },
+	{
+      "id": 86,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/24/66/bd/2466bd968eb977879579e3ddedda7fa6.jpg"
+    },
+	{
+      "id": 87,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4f/ac/78/4fac78bd4ea11e5790ade7f99ade56bf.jpg"
+    },
+	{
+      "id": 88,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/8f/1f/d08f1fab8d56d218e57c099de581b340.jpg"
+    },
+	{
+      "id": 89,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/72/01/9b/72019b12aa671c21a7be0b1f45fab494.jpg"
+    },
+	{
+      "id": 90,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/b1/68/f1b168a0e1e07c91e362d9010baf99ad.jpg"
+    },
+	{
+      "id": 91,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/ec/00/e6ec00bb09ab9bb58a16f44ccc95d4f5.jpg"
+    },
+	{
+      "id": 92,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ce/05/17/ce0517678cb5e804c0a75dba1959b2a8.jpg"
+    },
+	{
+      "id": 93,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/f1/ce/b3f1ce6e0f73d465b8dac49f5073de20.jpg"
+    },
+	{
+      "id": 94,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/97/5b/b1975b99fce1ad8bb7ff0de65d7d7621.jpg"
+    },
+	{
+      "id": 95,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 95",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c7/b8/23/c7b823a252d796d3d7ff0a73f1b14222.jpg"
+    },
+	{
+      "id": 96,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 96",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/b8/8a/fdb88aac999cab092f993acb2ddee845.jpg"
+    },
+	{
+      "id": 97,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 97",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3b/05/a7/3b05a78aea70a70d33a64142e3a13c6b.jpg"
+    },
+	{
+      "id": 98,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 98",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/c6/69/9ec669f5da06b8a68e2108779a9d3a6d.jpg"
+    },
+	{
+      "id": 99,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 99",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/de/58/27/de5827386e02caf09708471748134b58.jpg"
+    },
+	{
+      "id": 100,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 100",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/52/df/7e/52df7ec795e33c0967e2adeef949f2ea.jpg"
+    },
+	{
+      "id": 101,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 101",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d3/a2/57/d3a25713bb1a2381726372860d7cd665.jpg"
+    },
+	{
+      "id": 102,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 102",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/bf/12/6b/bf126bd27294464c8f959056468dbb9f.gif"
+    },
+	{
+      "id": 103,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 103",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/40/e1/ca/40e1caf63d8ef83711efac90c80f7341.gif"
+    },
+	{
+      "id": 104,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 104",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/39/6d/8c/396d8cf19235b7b437d1067045a63b5a.gif"
+    },
+	{
+      "id": 105,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 105",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/fc/a2/14/fca214c9ee1734d2c15b3c2ee9a23b3a.gif"
+    },
+	{
+      "id": 106,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 106",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/cb/9e/9d/cb9e9d937b02e5f96913b380edc382fb.gif"
+    },
+	{
+      "id": 107,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 107",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/8a/ab/6d/8aab6d056144aada70700c9182b09329.gif"
+    },
+	{
+      "id": 108,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 108",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/a5/e0/da/a5e0dadb2440f9cfe8e3ce8ee6bfac28.gif"
+    },
+	{
+      "id": 109,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 109",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/3a/a9/53/3aa953cc07477966b83bbc6116baf119.gif"
+    },
+	{
+      "id": 110,
+      "name_category": "Cute Bear",
+      "wallpaper_name": "Cute Bear 110",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/68/16/80/6816803b0df706f9f78966448d5eb9d3.gif"
+    }
+  ]
+}
